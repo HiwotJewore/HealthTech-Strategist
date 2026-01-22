@@ -1,0 +1,7 @@
+{
+  "name": "Copy of HealthTech Strategist",
+  "description": "A multimodal AI assessment and orchestration system designed for healthcare leadership to modernize administrative workflows and ensure HIPAA-eligible AI readiness.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
